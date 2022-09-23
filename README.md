@@ -1,23 +1,21 @@
 <h1 align="center">Hi There👋, I'm S Afsan Rahmatullah</h1>
 <h3 align="center">Full Stack Developer at MIICON</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btocode" alt="btocode" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/afsan_sr" target="blank"><img src="https://img.shields.io/twitter/follow/afsan_sr?logo=twitter&style=for-the-badge" alt="afsan_sr" /></a> </p>
 
-- 🔭 I’m currently working on [Django Backend](https://github.com/Btocode/Djangorestapi)
+* 🇧🇩  I'm based in Sylhet, Bangladesh
+* 🎓 CS Graduate from Bracu
+* 🔭 I’m currently working on [Django Backend](https://github.com/Btocode/Djangorestapi)
+* 🌱 I’m currently learning **Django, Vue**
+* 👨‍💻 See my portfolio here at at [https://portfolio-cse391.netlify.app/](https://portfolio-cse391.netlify.app/)
+* 💬 Ask me about **Java, Python,ReactJS, TailwindCSS**
+* 🤝  I'm open to collaborating on WebApp, ML and Android Projects etc
+* ⚡  I am passionate about problem solving 
+* 📫 How to reach me **talktoafsan@gmail.com**
 
-- 🌱 I’m currently learning **Django, Vue**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cse391.netlify.app/](https://portfolio-cse391.netlify.app/)
-
-- 💬 Ask me about **Java, Python,ReactJS, TailwindCSS**
-
-- 📫 How to reach me **talktoafsan@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://www.github.com/btocode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/btocode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +39,8 @@
 <a href="http://www.github.com/btocode"><img src="https://activity-graph.herokuapp.com/graph?username=btocode&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/btocode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btocode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### GitAchievements
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btocode" alt="btocode" /></a> </p>
 
