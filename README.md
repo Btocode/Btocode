@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm S Afsa Rahmatullah</h1>
+<h1 align="center">Hi There👋, I'm S Afsan Rahmatullah</h1>
 <h3 align="center">Full Stack Developer at MIICON</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btocode" alt="btocode" /></a> </p>
