@@ -1,7 +1,11 @@
 <h1 align="center">Hi There👋, I'm S Afsan Rahmatullah</h1>
-<h3 align="center">Full Stack Developer at MIICON</h3>
+===========================================================
 
 
+<h2 align="left">Full Stack Developer</h2>
+----------------------------------------------------
+
+Currently, I am working as a Full Stack Developer. 
 
 * 🇧🇩  I'm based in Sylhet, Bangladesh
 * 🎓 CS Graduate from Bracu
