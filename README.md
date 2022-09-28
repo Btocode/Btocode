@@ -3,7 +3,7 @@
 <h2 align="left">Full Stack Developer at <i>Miicon Solutions<i/></h2>
  
 
-* 🇧🇩  I'm based in Sylhet, Bangladesh
+* 🇧🇩 From Sylhet, Bangladesh
 * 🎓 CS Graduate from Bracu
 * 🔭 I’m currently working on [Django Backend](https://github.com/Btocode/Djangorestapi)
 * 🌱 I’m currently learning **Django, Vue**
