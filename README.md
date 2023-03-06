@@ -5,10 +5,10 @@
 
 * 🇧🇩 From Sylhet, Bangladesh
 * 🎓 CS Graduate from Bracu
-* 🔭 I’m currently working on [Django Backend](https://github.com/Btocode/Djangorestapi)
-* 🌱 I’m learning **Django, Vue**
+* 🔭 I’m currently working on [Django, Next, React & Postgresql](https://github.com/Btocode/Djangorestapi)
+* 🌱 I’m learning **Django, Spring**
 * 👨‍💻 See my portfolio here at at [https://portfolio-cse391.netlify.app/](https://portfolio-cse391.netlify.app/)
-* 💬 Ask me about **Java, Python,ReactJS, TailwindCSS**
+* 💬 Ask me about **Java, Python,ReactJS, NextJs, TailwindCSS**
 * 🤝  I'm open to collaborating on WebApp, ML and Android Projects etc
 * ⚡  I am passionate about problem solving 
 * 📫 How to reach me **talktoafsan@gmail.com**
