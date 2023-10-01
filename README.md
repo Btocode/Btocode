@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋, <br/> I'm S Afsan Rahmatullah</h1>
 
-<h2 align="left">Full Stack Developer at <i>Miicon Solutions<i/></h2>
+<h2 align="left">Jr. Software Engineer at <i>Apploye<i/></h2>
  
 
 * 🇧🇩 From Sylhet, Bangladesh
