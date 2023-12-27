@@ -23,10 +23,6 @@ Software Engineer from Dhaka, Bangladesh. Coder and a CS graduate from Bracu. Sp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=btocode&theme=dark" alt="Afsan's Streak" />
 </p>
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <!-- Add icons of languages and tools here -->
-</p>
 
 
 ### 📫 Let's Connect:
