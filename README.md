@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> S Afsan Rahmatullah</h1>
-<h3 align="center">Software Engineer | Tech Enthusiast </h3>
+<h3 align="center"> Software Engineer </h3>
 
 <p align="center">
   <a href="https://www.github.com/btocode"><img src="https://img.shields.io/github/followers/btocode?logo=github&style=social" /></a>
