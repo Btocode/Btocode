@@ -32,7 +32,5 @@
 
 Let's connect and explore how we can innovate together!
 
-📧 [talktoafsan@gmail.com](mailto:talktoafsan@gmail.com)  
-🌐 [github.com/Btocode](https://github.com/Btocode)  
-💼 [linkedin.com/in/srafsan/](https://www.linkedin.com/in/srafsan/)
+📧 talktoafsan@gmail.com
 ---
