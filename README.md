@@ -1,14 +1,9 @@
 
-
-<h1 align="center"> S Afsan Rahmatullah</h1>
-<h3 align="center"> Software Engineer </h3>
-
 <p align="center">
-  <a href="https://www.github.com/btocode"><img src="https://img.shields.io/github/followers/btocode?logo=github&style=social" /></a>
-  <a href="https://twitter.com/talktoafsan"><img src="https://img.shields.io/twitter/follow/talktoafsan?style=social" /></a>
+<a href="https://app.daily.dev/btocode"><img src="https://api.daily.dev/devcards/v2/8mq7g5HOLNRbkPKOt0YCV.png?r=qz3&type=wide" width="652" alt="S. Afsan Rahmatullah's Dev Card"/></a>
 </p>
 
-**Full Stack Developer with 2+ years of experience in ride-sharing, ERP, and SaaS solutions. Proficient in Python, system design, API development, and frontend development. Committed to delivering innovative, scalable solutions through best programming practices.**
+**Software Engineer with 2+ years of experience in ride-sharing, ERP, and SaaS solutions. Proficient in Python, system design, API development, and frontend development. Committed to delivering innovative, scalable solutions through best programming practices.**
 
 ## 💻 Technical Proficiencies:
 - **Programming Languages**: Python, JavaScript/TypeScript, Java
