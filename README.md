@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/btocode"><img src="https://api.daily.dev/devcards/v2/8mq7g5HOLNRbkPKOt0YCV.png?r=qz3&type=wide" width="652" alt="S. Afsan Rahmatullah's Dev Card"/></a>
 </p>
 
-**Software Engineer with 2+ years of experience in ride-sharing, ERP, and SaaS solutions. Proficient in Python, system design, API development, and frontend development. Committed to delivering innovative, scalable solutions through best programming practices.**
+**Software Engineer with 2.5+ years of experience in ride-sharing, ERP, and SaaS solutions. Proficient in Python, system design, API development, and frontend development. Committed to delivering innovative, scalable solutions through best programming practices.**
 
 ## 💻 Technical Proficiencies:
 - **Programming Languages**: Python, JavaScript/TypeScript, Java
