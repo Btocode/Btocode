@@ -1,27 +1,57 @@
+```
+$ whoami
+    ┌─────────────────────────────────────────────────────────────┐
+    │ User: S Afsan Rahmatullah                                   │
+    │ Role: SOFTWARE ENGINEER                                     │
+    │ Org:  Spacesoft Limited (Apploye Inc.)                      │
+    │ Mission: Building scalable systems that solve real problems │
+    │ Status: █████████████████████████████████████ [ACTIVE]      │
+    └─────────────────────────────────────────────────────────────┘
+```
 
-**Software Engineer with 2.5+ years of experience in ride-sharing, ERP, and SaaS solutions. Proficient in Python, system design, API development, and frontend development. Committed to delivering innovative, scalable solutions through best programming practices.**
+```diff
+⚡ RECENT IMPACT
++ 50% faster APIs through async optimization  
++ 70% faster integrations with streamlined processes  
++ Revamped Chrome extension architecture from ground up  
++ Automated Shopify deployments on cloud infrastructure
+```
 
-## 💻 Technical Proficiencies:
-- **Programming Languages**: Python, JavaScript/TypeScript, Java
-- **Frameworks**: Django, FastAPI, Flask, AsyncIO, React, Next.js, Remix, TailwindCSS
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Firebase
-- **DevOps**: Git, Docker
-- **Testing**: PyTest, Unit Testing
-- **Others**: REST APIs, GraphQL, RabbitMQ, Celery, OOP, Design Patterns, Prisma, SQLAlchemy, CGP
+```yaml
+🛠 CORE STACK:
+  Backend: 
+    - Python, Django, FastAPI, Flask, PostgreSQL
+  Frontend: 
+    - React, Next.js, Remix, TailwindCSS, Styled-Components
+  Specialized: 
+    - Backend Development, Chrome Extensions
+    - Shopify Apps, System Design
+```
 
-## 🌟 Additional Skills:
-- **E-commerce Development**: Shopify app development
-- **Browser Extensions**: Chrome extension development
-- **Automation**: Bot development
+```bash
+📍 CURRENTLY:
+→ Pushing commits at Spacesoft Ltd (Apploye Inc.)
+→ Exploring Full Stack solutions & Process Automation  
+→ AI Agent Development & System Architecture
+→ 2.5+ years of full-stack development experience
+```
 
-## 🌐 Languages:
-- **English**: Fluent
-- **Bangla**: Native
-- **Hindi**: Conversational
+```json
+{
+  "languages": {
+    "English": "Fluent",
+    "Bangla": "Native", 
+    "Hindi": "Conversational"
+  },
+  "status": "Open to collaboration",
+  "email": "talktoafsan@gmail.com"
+}
+```
 
----
-
-Let's connect and explore how we can innovate together!
-
-📧 talktoafsan@gmail.com
----
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Let's connect and explore how we can innovate together!     ║
+║                                                              ║
+║  📧 talktoafsan@gmail.com                                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
