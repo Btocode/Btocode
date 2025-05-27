@@ -23,6 +23,8 @@ $ whoami
     - Python, Django, FastAPI, Flask, PostgreSQL
   Frontend: 
     - React, Next.js, Remix, TailwindCSS, Styled-Components
+  DevOps & CI/CD:
+    - GitHub Actions, Docker, Automated Testing, Pipeline Design
   Specialized: 
     - Backend Development, Chrome Extensions
     - Shopify Apps, System Design
