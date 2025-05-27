@@ -1,12 +1,12 @@
 ```
 $ whoami
-    ┌─────────────────────────────────────────────────────────────┐
-    │ User: S Afsan Rahmatullah                                   │
-    │ Role: SOFTWARE ENGINEER                                     │
-    │ Org:  Spacesoft Limited (Apploye Inc.)                      │
-    │ Mission: Building scalable systems that solve real problems │
-    │ Status: █████████████████████████████████████ [ACTIVE]      │
-    └─────────────────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────┐
+ │ User: S Afsan Rahmatullah                                   │
+ │ Role: SOFTWARE ENGINEER                                     │
+ │ Org:  Spacesoft Limited (Apploye Inc.)                      │
+ │ Mission: Building scalable systems that solve real problems │
+ │ Status: █████████████████████████████████████ [ACTIVE]      │
+ └─────────────────────────────────────────────────────────────┘
 ```
 
 ```diff
